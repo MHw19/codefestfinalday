@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708309792987",
+    "project_id": "codefeest2021",
+    "storage_bucket": "codefeest2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708309792987:android:eb8a497988e7657560b4fe",
+        "android_client_info": {
+          "package_name": "com.lk.codefist2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708309792987-t03fe06ap0giqf35htj2bk5psstvkolc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lk.codefist2021",
+            "certificate_hash": "fea0255e06f4f26ea780617a59ad3cb31cdfb136"
+          }
+        },
+        {
+          "client_id": "708309792987-vbm10ee3k63ccgoku38knelbb17jccke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDh28-ONYII3wuTd0sZ-ZhqmKyeDi7F5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708309792987-vbm10ee3k63ccgoku38knelbb17jccke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
